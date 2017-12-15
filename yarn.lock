@@ -232,6 +232,10 @@ finalhandler@1.1.0:
     statuses "~1.3.1"
     unpipe "~1.0.0"
 
+force-ssl-heroku@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/force-ssl-heroku/-/force-ssl-heroku-1.0.2.tgz#52850323066ba789dc330feccd7817c7cebb2680"
+
 forever-agent@~0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/forever-agent/-/forever-agent-0.6.1.tgz#fbc71f0c41adeb37f96c577ad1ed42d8fdacca91"
