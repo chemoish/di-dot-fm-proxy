@@ -15,4 +15,4 @@ app.get('/:channel', (req, res) => {
   proxyRequest.pipe(res);
 });
 
-app.listen(3000, () => console.log(`Server running on port ${PORT}.`));
+app.listen(PORT, () => console.log(`Server running on port ${PORT}.`));
