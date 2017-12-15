@@ -4,6 +4,7 @@
   "description": "Unofficial DI.FM proxy",
   "main": "index.js",
   "scripts": {
+    "deploy": "git push heroku master",
     "start": "node index.js"
   },
   "repository": "git@github.com:chemoish/di-dot-fm-proxy.git",
